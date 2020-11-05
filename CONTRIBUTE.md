@@ -19,13 +19,62 @@
  
  ## Ways of Contributing: 
  
- There are two ways: 
+ There are three ways: 
  
  <ol>
    <li>
-     test
+     Modify the README.md's HTML code such that you add a new free link that directs to the book that you want to be added to the respective category (if the category does not exists create it). 
    </li>
    <li>
-     test
+     Upload the particular book you want to be added to your own personal drive account and then modify the README.md file by following the example (1).
    </li>
+   <li>
+     Make a pull request of the book you want to be added by providing the free download link, and I will personally add it to my drive account and then add it to the repo.
+  </li>
  </ol>
+ 
+ <hr>
+ 
+   - *Example* **(1)** 
+   
+```html
+<ul>
+ <li>
+  <h2>:emoji_here: <a href="https://www.link_for_the_book_here.pdf/">Category_1</a></h2>
+  <ul>
+   <li>
+    <h3>:emoji_here: <a href="https://www.link_for_the_book_here.pdf/">Sub - Category_1</a></h3>
+    <ul>
+     <li>
+      ...
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ <li>
+  <h2>:emoji_here: <a href="https://www.link_for_the_book_here.pdf/">Category_2</a></h2>
+  <ul>
+   <li>
+    <h3>:emoji_here: <a href="https://www.link_for_the_book_here.pdf/">Sub - Category_2</a></h3>
+    <ul>
+     <li>
+      ...
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+ .
+ .
+ .
+</ul>
+.
+.
+.
+```
+
+<hr>
+
+:copyright: 2020 - 2021 <br>
+**Thank you!**
