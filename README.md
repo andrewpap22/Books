@@ -9,263 +9,263 @@ This particular repo's purpose is for **educational purposes only**, and the :co
 
 # Table Of Contents 
 <div>
-    <a href="https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#office"><h1>Books</h1></a>
+    <h1>:books: <a href="#">Books</a></h1>
     <ul>
       <li>
-        <a href="#"><h2>Computer Science</h2></a>
+          <h2>:desktop_computer: <a href="www.google.com">Computer Science</a></h2>
         <ul>
           <li>
-            <a href="#"><h3>General</h3></a>
+            <h3>:abacus: <a href="#">General</a></h3>
             <ul>
               <li>
-                <a href="#"><h4>Algorithms</h4></a>
+               <h4>:floppy_disk: <a href="#">Algorithms</a></h4>
               </li>
               <li>
-                <a href="#"><h4>Game Design & Development</h4></a>
+                <h4>:video_game: <a href="#">Game Design & Development</a></h4>
               </li>
               <li>
-                <a href="#"><h4>Security & Networking</h4></a>
+                <h4>:closed_lock_with_key: <a href="#">Security & Networking</a></h4>
               </li>
             </ul>
           </li>
           <li>
-            <a href="#"><h3>Good Coding Practices</h3></a>
+            <h3>:open_book: <a href="#">Good Coding Practices</a></h3>
             <ul>
               <li>
-                <a href="#"><h4>The Art Of Computer Programming</h4></a>
+                <h4>:scroll: <a href="#">The Art Of Computer Programming</a></h4>
               </li>
             </ul>
           </li>
           <li>
-            <a href="#"><h3>Programming CheatSheets</h3></a>
+            <h3>:see_no_evil: <a href="#">Programming CheatSheets</a></h3>
           </li>
           <li>
-            <a href="#"><h3>Programming Languages</h3></a>
+            <h3>:atom: <a href="#">Programming Languages</a></h3>
             <ul>
               <li>
-                <a href="#"><h4>Assembly</h4></a>
+                <h4><a href="#">Assembly</a></h4>
               </li>
               <li>
-                <a href="#"><h4>C</h4></a>
+                <h4><a href="#">C</a></h4>
               </li>
               <li>
-                <a href="#"><h4>C#</h4></a>
+                <h4><a href="#">C#</a></h4>
               </li>
               <li>
-                <a href="#"><h4>C++</h4></a>
+                <h4><a href="#">C++</a></h4>
               </li>
               <li>
-                <a href="#"><h4>Java</h4></a>
+                <h4><a href="#">Java</a></h4>
               </li>
               <li>
-                <a href="#"><h4>Python</h4></a>
+                <h4><a href="#">Python</h4></a></h4>
               </li>
               <li>
-                <a href="#"><h4>SQL</h4></a>
+                <h4><a href="#">SQL</a></h4>
               </li>
             </ul>
           </li>
           <li>
-            <a href="#"><h3>Tools</h3></a>
+            <h3>:toolbox: <a href="#">Tools</a></h3>
           </li>
         </ul>
       </li>
       <li>
-        <a href="#"><h2>Miscellaneous</h2></a>
+    <h2>:bomb: <a href="#">Miscellaneous</a></h2>
         <ul>
           <li>
-            <a href="#"><h3>Amazon's Top Rated eBooks of 2018</h3></a>
+            <h3>:orange_book: <a href="#">Amazon's Top Rated eBooks of 2018</a></h3>
           </li>
           <li>
-            <a href="#"><h3>Chess</h3></a>
+            <h3>:chess_pawn: <a href="#">Chess</a></h3>
             <ul>
               <li>
-                <a href="#"><h4>8 Chess Books on Openings</h4></a>
+                <h4><a href="#">8 Chess Books on Openings</a></h4>
               </li>
               <li>
-                <a href="#"><h4>13 Chess Books</h4></a>
+                <h4><a href="#">13 Chess Books</a></h4>
               </li>
             </ul>
           </li>
           <li>
-            <a href="#"><h3>Health & Fitness</h3></a>
+            <h3>:weight_lifting_man: <a href="#">Health & Fitness</a></h3>
             <ul>
               <li>
-                <a href="#"><h4>Calisthenics</h4></a>
+                <h4><a href="#">Calisthenics</a></h4>
               </li>
               <li>
-                <a href="#"><h4>Nutrition</h4></a>
+                <h4>:broccoli: <a href="#">Nutrition</a></h4>
                 <ul>
                   <li>
-                    <a href="#"><h5>AthleanX Nutrition Tips</h5></a>
+                    <h5><a href="#">AthleanX Nutrition Tips</a></h5>
                     <ul>
                       <li>
-                        <a href="#"><h6>AthleanX Meal Plans</h6></a>
+                        <h6><a href="#">AthleanX Meal Plans</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>AthleanX e-z Eating Equation</h6></a>
+                        <h6><a href="#">AthleanX e-z Eating Equation</a></h6>
                       </li>
                     </ul>
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="#"><h4>Sorted Collection</h4></a>
+                <h4><a href="#">Sorted Collection</a></h4>
                 <ul>
                   <li>
-                    <a href="#"><h5>Fitness</h5></a>
+                    <h5><a href="#">Fitness</a></h5>
                     <ul>
                       <li>
-                        <a href="#"><h6>Abs</h6></a>
+                        <h6><a href="#">Abs</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Arms</h6></a>
+                        <h6><a href="#">Arms</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Body for Life</h6></a>
+                        <h6><a href="#">Body for Life</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Brooks Kublik</h6></a>
+                        <h6><a href="#">Brooks Kublik</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Chad Waterbury</h6></a>
+                        <h6><a href="#">Chad Waterbury</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Charles Poliquin</h6></a>
+                        <h6><a href="#">Charles Poliquin</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Christian Thibaudeau</h6></a>
+                        <h6><a href="#">Christian Thibaudeau</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Dan Duchaine</h6></a>
+                        <h6><a href="#">Dan Duchaine</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>General</h6></a>
+                        <h6><a href="#">General</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Grip</h6></a>
+                        <h6><a href="#">Grip</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Matt Furey</h6></a>
+                        <h6><a href="#">Matt Furey</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Military</h6></a>
+                        <h6><a href="#">Military</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Pavel Tsatsouline</h6></a>
+                        <h6><a href="#">Pavel Tsatsouline</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Pete Sisco</h6></a>
+                        <h6><a href="#">Pete Sisco</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Rock Hard Challenge</h6></a>
+                        <h6><a href="#">Rock Hard Challenge</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Ross Enamait</h6></a>
+                        <h6><a href="#">Ross Enamait</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Running</h6></a>
+                        <h6><a href="#">Running</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Science Based</h6></a>
+                        <h6><a href="#">Science Based</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Skip LaCour</h6></a>
+                        <h6><a href="#">Skip LaCour</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Stuart McRobert</h6></a>
+                        <h6><a href="#">Stuart McRobert</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Vince Gironda</h6></a>
+                        <h6><a href="#">Vince Gironda</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Will Brink</h6></a>
+                        <h6><a href="#">Will Brink</a></h6>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="#"><h5>Misc.</h5></a>
+                    <h5><a href="#">Misc.</a></h5>
                   </li>
                   <li>
-                    <a href="#"><h5>Nutrition vol2</h5></a>
+                    <h5><a href="#">Nutrition vol2</a></h5>
                     <ul>
                       <li>
-                        <a href="#"><h6>Anabolics</h6></a>
+                        <h6><a href="#">Anabolics</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Mauro DiPasquale</h6></a>
+                        <h6><a href="#">Mauro DiPasquale</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Tom Venuto</h6></a>
+                        <h6><a href="#">Tom Venuto</a></h6>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href="#"><h5>Stretching</h5></a>
+                    <h5><a href="#">Stretching</a></h5>
                   </li>
                   <li>
-                    <a href="#"><h5>Weight Loss</h5></a>
+                    <h5><a href="#">Weight Loss</a></h5>
                     <ul>
                       <li>
-                        <a href="#"><h6>Jon Benson</h6></a>
+                        <h6><a href="#">Jon Benson</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Lyle McDonald</h6></a>
+                        <h6><a href="#">Lyle McDonald</a></h6>
                       </li>
                     </ul>
                   </li>
                 </ul>
               </li>
               <li>
-                <a href="#"><h4>Weightlifting</h4></a>
+                <h4><a href="#">Weightlifting</a></h4>
                 <ul>
                   <li>
-                    <a href="#"><h5>AthleanX Workouts</h5></a>
+                    <h5><a href="#">AthleanX Workouts</a></h5>
                     <ul>
                       <li>
-                        <a href="#"><h6>AthleanX Home Gym Exclusive</h6></a>
+                        <h6><a href="#">AthleanX Home Gym Exclusive</a></h6>
                       </li>
                       <li>
-                        <a href="#"><h6>Good Tips</h6></a>
+                        <h6><a href="#">Good Tips</a></h6>
                       </li>
                     </ul>
-                  </li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-          <li>
-            <a href="#"><h3>Learn English</h3></a>
-          </li>
-          <li>
-            <a href="#"><h3>Logic</h3></a>
-          </li>
-          <li>
-            <a href="#"><h3>Magic</h3></a>
-          </li>
-          <li>
-            <a href="#"><h3>New York Times Best Sellers</h3></a>
-            <ul>
-              <li>
-                <a href="#"><h4>Fiction</h4></a>
-                <ul>
-                  <li>
-                    <a href="#"><h5>[fiction]</h5></a>
-                  </li>
-                </ul>
-              </li>
-              <li>
-                <a href="#"><h4>Non Fiction</h4></a>
-                <ul>
-                  <li>
-                    <a href="#"><h5>[non fiction]</h5></a>
                   </li>
                 </ul>
               </li>
             </ul>
           </li>
           <li>
-            <a href="#"><h3>Self Improvement</h3></a>
+            <h3>:england: <a href="#">Learn English</a></h3>
+          </li>
+          <li>
+            <h3>:dna: <a href="#">Logic</a></h3>
+          </li>
+          <li>
+            <h3>:spades: :diamonds: <a href="#">Magic</a> :hearts: :clubs:</h3>
+          </li>
+          <li>
+            <h3>:us: <a href="#">New York Times Best Sellers</a></h3>
+            <ul>
+              <li>
+                <h4><a href="www.google.com">Fiction</a></h4>
+                <ul>
+                  <li>
+                    <h5><a href="#">[fiction]</a></h5>
+                  </li>
+                </ul>
+              </li>
+              <li>
+                <h4><a href="#">Non Fiction</a></h4>
+                <ul>
+                  <li>
+                    <h5><a href="#">[non fiction]</a></h5>
+                  </li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <h3>:baby: <a href="#">Self Improvement</a></h3>
           </li>
         </ul>
       </li>
