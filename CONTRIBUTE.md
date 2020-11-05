@@ -23,7 +23,7 @@
  
  <ol>
    <li>
-     Modify the README.md's HTML code such that you add a new free link that directs to the book that you want to be added to the respective category (if the category does not exists create it). 
+     Modify the README.md's HTML code (follow example **(1)**) such that you add a new free link that directs to the book that you want to be added to the respective category (if the category does not exist create it). 
    </li>
    <li>
      Upload the particular book you want to be added to your own personal drive account and then modify the README.md file by following the example (1).
