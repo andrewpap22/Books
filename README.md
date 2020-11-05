@@ -12,7 +12,7 @@ This particular repo's purpose is for **educational purposes only**, and the :co
     <h1>:books: <a href="#">Books</a></h1>
     <ul>
       <li>
-          <h2>:desktop_computer: <a href="https://www.youtube.com/watch?v=t-N2aENwOyI&list=RDKbj2Zss-5GY&index=10">Computer Science</a></h2>
+          <h2>:desktop_computer: <a href="https://www.google.com/">Computer Science</a></h2>
         <ul>
           <li>
             <h3>:abacus: <a href="#">General</a></h3>
@@ -244,10 +244,10 @@ This particular repo's purpose is for **educational purposes only**, and the :co
             <h3>:spades: :diamonds: <a href="#">Magic</a> :hearts: :clubs:</h3>
           </li>
           <li>
-            <h3>:us: <a href="#">New York Times Best Sellers</a></h3>
+            <h3>:us: <a href="https://www.google.com/">New York Times Best Sellers</a></h3>
             <ul>
               <li>
-                <h4><a href="www.google.com">Fiction</a></h4>
+                <h4><a href="#">Fiction</a></h4>
                 <ul>
                   <li>
                     <h5><a href="#">[fiction]</a></h5>
