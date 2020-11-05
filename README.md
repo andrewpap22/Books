@@ -12,7 +12,7 @@ This particular repo's purpose is for **educational purposes only**, and the :co
     <h1>:books: <a href="#">Books</a></h1>
     <ul>
       <li>
-          <h2>:desktop_computer: <a href="www.google.com">Computer Science</a></h2>
+          <h2>:desktop_computer: <a href="https://www.youtube.com/watch?v=t-N2aENwOyI&list=RDKbj2Zss-5GY&index=10">Computer Science</a></h2>
         <ul>
           <li>
             <h3>:abacus: <a href="#">General</a></h3>
